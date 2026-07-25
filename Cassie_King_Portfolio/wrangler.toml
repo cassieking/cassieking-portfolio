@@ -1,0 +1,13 @@
+name = "cassieking-portfolio"
+compatibility_date = "2024-04-05"
+
+[assets]
+directory = "./dist"
+
+[[routes]]
+pattern = "cassieking.org"
+custom_domain = true
+
+[[routes]]
+pattern = "www.cassieking.org"
+custom_domain = true

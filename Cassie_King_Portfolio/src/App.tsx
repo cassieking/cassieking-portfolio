@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Mail, Linkedin, ChevronRight, Briefcase, GraduationCap, Server, Award } from 'lucide-react';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       {/* Navigation */}
       <nav className="sticky top-0 z-50 backdrop-blur-md bg-gray-950/80 border-b border-gray-800">
         <div className="max-w-5xl mx-auto px-6 py-4 flex justify-between items-center">
-          <a href="#" className="text-xl font-bold text-gray-100 tracking-wider">
+          <a href="#" className="text-3xl font-extrabold text-gray-100 tracking-wider">
             CASSIE <span className="text-fuchsia-500">KING</span>
           </a>
           <div className="space-x-6 text-sm font-medium hidden sm:block">
@@ -54,7 +54,7 @@ function App() {
             Operations leader and management professional with 4+ years of progressive experience in high-volume hospitality environments. Proven track record in bar management, shift leadership, team development, and orchestrating large-party service. Excels at running the floor, coordinating complex logistics, and resolving guest issues under pressure.
           </p>
           <p className="text-gray-400 leading-relaxed text-lg">
-            Possesses a strong foundation in structured communication, demonstrated by placing as a Runner-Up in the International Forensics Tournament in Germany. Currently pursuing advanced credentials in project management and hospitality supervision to further transition into broader operations and event leadership roles.
+            Currently pursuing advanced credentials in project management and hospitality supervision to further transition into broader operations and event leadership roles.
           </p>
         </div>
       </section>
@@ -215,13 +215,7 @@ function App() {
             </ul>
           </div>
 
-          <div className="bg-gray-900 border border-fuchsia-900/50 p-6 rounded-xl shadow-lg hover:border-fuchsia-500/50 transition-colors md:col-span-2">
-            <h3 className="text-lg font-bold text-gray-100 mb-2">Notable Achievements</h3>
-            <div className="flex items-start">
-                <ChevronRight className="text-fuchsia-500 mr-2 shrink-0 mt-0.5" size={16} />
-                <span className="text-gray-300 text-sm"><strong>Runner-Up: International Forensics Tournament</strong> (Germany, 2019) <br/><span className="text-gray-400 mt-1 block">Elite-level competitive public speaking, demonstrating poise, structured communication, and performance under pressure on an international stage.</span></span>
-            </div>
-          </div>
+
         </div>
       </section>
 
