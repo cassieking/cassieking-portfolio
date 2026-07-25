@@ -106,7 +106,7 @@ function App() {
                 <h3 className="text-xl font-bold text-gray-100">Fogo de Chao</h3>
                 <span className="text-sm text-fuchsia-400 font-medium">Nov 2025 – Present</span>
               </div>
-              <h4 className="text-md text-gray-400 mb-4 font-medium uppercase tracking-wide">Service Trainer & Shift Leader</h4>
+              <h4 className="text-md text-gray-400 mb-4 font-medium uppercase tracking-wide">Server Trainer & Bartender</h4>
               <ul className="list-disc list-outside ml-4 space-y-2 text-gray-400 text-sm">
                 <li>Direct daily floor operations and team workflow in a high-end Brazilian steakhouse, ensuring seamless execution during peak volume.</li>
                 <li>Lead comprehensive onboarding and training programs for new staff, elevating service consistency and operational standards.</li>
