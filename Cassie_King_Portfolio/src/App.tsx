@@ -232,9 +232,9 @@ function App() {
               <Mail size={20} />
               opportunities@cassieking.org
             </a>
-            <a href="#" className="flex items-center gap-2 bg-gray-800 hover:bg-gray-700 text-white px-8 py-4 rounded-lg font-semibold transition-colors border border-gray-700">
+            <a href="https://www.linkedin.com/in/cassienking" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-gray-800 hover:bg-gray-700 text-white px-8 py-4 rounded-lg font-semibold transition-colors border border-gray-700">
               <Linkedin size={20} />
-              LinkedIn Profile <span className="text-xs text-gray-400 font-normal ml-1">(Coming Soon)</span>
+              LinkedIn Profile
             </a>
           </div>
         </div>
