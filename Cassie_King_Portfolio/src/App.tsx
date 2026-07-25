@@ -12,9 +12,9 @@ function App() {
           </a>
           <div className="space-x-6 text-sm font-medium hidden sm:block">
             <a href="#about" className="hover:text-fuchsia-400 transition-colors">About</a>
+            <a href="#skills" className="hover:text-fuchsia-400 transition-colors">Skills</a>
             <a href="#experience" className="hover:text-fuchsia-400 transition-colors">Experience</a>
             <a href="#credentials" className="hover:text-fuchsia-400 transition-colors">Credentials</a>
-            <a href="#skills" className="hover:text-fuchsia-400 transition-colors">Skills</a>
             <a href="#contact" className="hover:text-fuchsia-400 transition-colors">Contact</a>
           </div>
         </div>
